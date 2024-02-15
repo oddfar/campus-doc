@@ -1,3 +1,7 @@
+<h2 align="center">Campus系列项目的文档仓库</h2>
+
+
+
 使用 [vuepress](https://vuepress.vuejs.org/zh) 搭建，自动部署在[GitHub Pages](https://pages.github.com/) 
 
 
@@ -6,8 +10,4 @@
 
 - 国外：<https://oddfar.github.io/campus-doc/>
 - 国内：无
-
-> 文档笔记网站部署
-
-查看此处：<https://oddfar.github.io/notes/about/>
 
