@@ -4,6 +4,7 @@ node_modules
 
 # vscode
 .vscode
+.idea
 
 # vuepress 
 docs/.vuepress/dist
